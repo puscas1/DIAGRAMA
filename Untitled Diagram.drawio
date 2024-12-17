@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15" version="25.0.3">
+  <diagram name="Page-1" id="rWMGh9NSeRcNj_KPvd-Q">
+    <mxGraphModel dx="818" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LH28HARHljUzo6iZVthO-1" value="WIKIPEDIA" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="10" width="250" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.018;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LH28HARHljUzo6iZVthO-3" target="LH28HARHljUzo6iZVthO-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-3" value="VIZITATOR" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LH28HARHljUzo6iZVthO-4" target="LH28HARHljUzo6iZVthO-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-4" value="ADMIN" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-5" value="BOT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LH28HARHljUzo6iZVthO-16" target="LH28HARHljUzo6iZVthO-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-16" value="VIZITEAZA ARTICOLELE" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LH28HARHljUzo6iZVthO-18" target="LH28HARHljUzo6iZVthO-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-18" value="EDITEAZA ARTICOLELE" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LH28HARHljUzo6iZVthO-19" target="LH28HARHljUzo6iZVthO-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-19" value="UPDATEAZA ARTICOLELE" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.012;entryY=0.693;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LH28HARHljUzo6iZVthO-5" target="LH28HARHljUzo6iZVthO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-21" value="EXTERNAL DATABASE" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-25" value="UPLOAD MEDIA" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LH28HARHljUzo6iZVthO-27" value="ADAUGA IMAGINI" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="340" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
